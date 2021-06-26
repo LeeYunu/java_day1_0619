@@ -60,7 +60,7 @@ public class Day02_02 { // c s
 			
 			
 	
-		double 실수변수 2 = 10.5111111111111111111111111111;
+		/* double 실수변수 2 = 10.5111111111111111111111111111;
 		System.out.println("double 변수: 실수변수2" );
 		
 		
@@ -68,7 +68,7 @@ public class Day02_02 { // c s
 		System.out.println("String 객체: ") + 문자열객체;
 		
 		
-		
+		*/
 		
 	}
 } // c e 

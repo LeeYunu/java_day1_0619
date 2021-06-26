@@ -22,9 +22,9 @@ public class Day02_03 { // cs
 	System.out.println("현재 입력한 정수는 :" + 입력정수);
 	
 	System.out.println("문자열 입력:");
-	String 입력문자열 = 입력객체.next();
+	//String 입력문자열 = 입력객체.next();
 			//next() : 입력객체의 입력된 문자열 가져오기
-	System.out.println("현재 입력한 문자열은:"+ 입력문자열);
+	//System.out.println("현재 입력한 문자열은:"+ 입력문자열);
 	
 	} //me
 } //ce
