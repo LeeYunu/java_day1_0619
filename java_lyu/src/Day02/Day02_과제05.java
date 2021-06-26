@@ -12,7 +12,7 @@ public class Day02_과제05 { //cs
 		System.out.println("정수를 입력하시오"); int 정수 = 입력객체 .nextInt();
 	 
 		
-		System.out.println(정수%14 == 0);
+		System.out.println(정수%7 ==0 && 정수%2 == 0);
 	
 	
 	

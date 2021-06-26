@@ -1,8 +1,8 @@
 package Day01;
 
-public class Day01_б╟ц╨ц│б╕ {
+public class Day01_╟За╕ {
 
-	//б╟ц╨ц│б╕ 1
+	//╟За╕ 1
 	/*
 	 * 
 		\    /\
@@ -14,7 +14,7 @@ public class Day01_б╟ц╨ц│б╕ {
 	 */
 		
 	
-	//б╟ц╨ц│б╕ 2
+	//╟За╕ 2
 	
 	/*
 	 * 
