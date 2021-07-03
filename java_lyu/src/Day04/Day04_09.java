@@ -64,15 +64,15 @@ public class Day04_09 { //cs
 			System.out.println("총횟수:" + 총횟수 + "\t승리: "+ 승리수 + "\t패배: "+ 패배수 + "\t무승부: "+ 무승부수+ "\n");
 
 			if (총횟수 == 10) {
-				System.out.println("------게임종료------");
-				System.out.println("최종전적::" + 승리수 + "승\t"+ 패배수 + "패\t"+ 무승부수 + "무");
+				System.out.println("!!------게임종료------!!");
+				System.out.println("최종전적::" + 승리수 + "승\t"+ 패배수 + "패\t"+ 무승부수 + "무\n");
 			
 			
-			if (승리수 > 패배수) System.out.println("플레이어 승리!");
+			if (승리수 > 패배수) System.out.println("**** 플레이어 승리 ****");
 
-			else if(승리수 < 패배수) System.err.println("플레이어 패배..");
+			else if(승리수 < 패배수) System.err.println("**** 플레이어 패배 ****");
 			
-			else System.out.println("무승부");
+			else System.out.println("****** 무승부 ******");
 				
 			
 				break;
