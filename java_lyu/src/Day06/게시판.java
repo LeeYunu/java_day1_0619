@@ -33,7 +33,7 @@ public class 게시판 {
 	// 메소드 [미리 작성된 코드]
 		
 		//1. 게시물 등록
-		public static void 게시물등록() {
+	/*	public static void 게시물등록() {
 			System.out.println("----> 게시물 등록 화면");
 			System.out.println("제목: "); 
 				String 제목 = Day06_04.입력객체.next();
@@ -49,8 +49,8 @@ public class 게시판 {
 		}
 		
 		//2. 게시물 출력
-		for (int i =0; i < 게시물목록.size(); i++);{
-			System.out.println(i+"\t"+게시물목록.get(i).제목 + "\t\t\t"+게시물목록.get(i).내용
+	//	for (int i =0; i < 게시물목록.size(); i++);{
+	//		System.out.println(i+"\t"+게시물목록.get(i).제목 + "\t\t\t"+게시물목록.get(i).내용
 			 					"\t\t\t"+게시물목록.get(i).작성자 + "\t\t\t"+게시물목록.get(i).조회수);
 		}
 		//3. 게시물 삭제
@@ -60,5 +60,5 @@ public class 게시판 {
 		public void 게시물상세보기 (int 번호) {
 									// 보고자하는 게시물의 번호
 			게시판 temp =Day06_04.게시물목록.get(번호);
-	
+	*/
 }

@@ -20,7 +20,7 @@ public class Day06_01 {
 		int 선택 = scanner.nextInt();
 		
 		if(선택 == 1) { 
-			System.out.println(" ---> 학생수 : "); int 인원수 = scanner.nextInt();
+			//System.out.println(" ---> 학생수 : "); int 인원수 = scanner.nextInt();
 			학생점수 = new int[인원수]; // 자료형 배열명 = new 자료형[개수] 
 			System.out.println(인원수 + "만큼 학생점수를 저장가능합니다");
 		}
